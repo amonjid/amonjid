@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Amr Monjid and I'm a Staff Engineer at Volvo Cars</h2>
+<h2 align="center">Hi 👋! My name is Amr Monjid... I'm a Staff Engineer at Volvo Cars</h2>
 
 ##
 
